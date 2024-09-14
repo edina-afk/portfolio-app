@@ -10,7 +10,7 @@ export default function Portfolio() {
                 <div className="content">
                   <h2>Welcome to my website</h2>
                 <p>
-                Welcome to my web developer portfolio! I'm Mitchell, a skilled and
+                Welcome to my web developer portfolio! I'm Eden, a skilled and
                 creative web developer with a passion for creating beautiful,
                 responsive, and user-friendly websites. I've worked on a variety of
                 web projects, ranging from personal blogs to e-commerce platforms.
